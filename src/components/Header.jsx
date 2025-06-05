@@ -6,7 +6,7 @@ export default function Header() {
     <header className="hero-header flex items-center justify-between">
       <div className="brand-name">
         <h1 className="text-xl md:text-2xl font-bold text-pink-500 text-stroke tracking-[0.1em]">
-          Y2Z Travel
+          Y2Z TRAVEL
         </h1>
       </div>
       <div className="menu-bar block lg:hidden">
